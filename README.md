@@ -10,7 +10,7 @@ Collaborative and technically-minded business intelligence professional with sol
 
 My credentials include Bachelor's degree in Actuarial Science and Statistics from the Federal University of Minas Gerais (UFMG), an institution of higher education and advanced research rated as one of the top and most prestigious universities in Brazil.
 
-**Background in:** Python, R, PowerBI, Excel, Minitab and SPSS.
+**Background in:** Python, R, PowerBI, SQL, Excel, Minitab and SPSS.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marriane-dos-reis-silva)
