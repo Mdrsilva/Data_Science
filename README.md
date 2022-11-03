@@ -4,18 +4,16 @@
   <img src="banner github.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Marriane Silva
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Collaborative and technically-minded business intelligence professional with solid experience in the data/analytics information environment. I combine analytical skills, ability to work in team environments, and attention to details. Having worked with Data Analysis for 7 years, I developed a critical thinking and problem-solving skills and I am able to deliver excellent reports/data visualization as well as business insights and trends that support the organization’s decision-making process.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+My credentials include Bachelor's degree in Actuarial Science and Statistics from the Federal University of Minas Gerais (UFMG), an institution of higher education and advanced research rated as one of the top and most prestigious universities in Brazil.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, R, PowerBI, Excel, Minitab and SPSS.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/marriane-dos-reis-silva)
 * [Medium](https://www.medium.com)
 
 
