@@ -14,13 +14,15 @@ My credentials include Bachelor's degree in Actuarial Science and Statistics fro
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marriane-dos-reis-silva)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@marriane87)
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+## Projects:
 
-* **Airbnb Data Analysis:** https://bit.ly/3A2zMoD
+* **Airbnb Data Analysis - Vancouver, BC - Canada:** https://bit.ly/3A2zMoD
+
+**All projects have a related article on my Medium page**
+
 
 ---
 
