@@ -21,8 +21,6 @@ My credentials include Bachelor's degree in Actuarial Science and Statistics fro
 
 * **Airbnb Data Analysis - Vancouver, BC - Canada:** https://bit.ly/3A2zMoD
 
-**All projects have a related article on my Medium page**
-
 
 ---
 
