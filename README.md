@@ -20,7 +20,7 @@ My credentials include Bachelor's degree in Actuarial Science and Statistics fro
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **AirBNB Data Analysis:** https://bit.ly/2L2cMwy
+* **AirBNB Data Analysis:** https://bit.ly/3A2zMoD
 
 ---
 
