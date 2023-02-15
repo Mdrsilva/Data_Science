@@ -23,7 +23,7 @@ My credentials include Bachelor's degree in Actuarial Science and Statistics fro
 
 * **Data Analysis on Covid-19 in Canada and in the World:** https://bit.ly/3XdMvOp
 
-* **Credit Card Fraud Detection with Machine Learning:** https://bit.ly/3YTx4LX
+* **Credit Card Fraud Detection using Machine Learning Models:** https://bit.ly/3YTx4LX
 
 ---
 
