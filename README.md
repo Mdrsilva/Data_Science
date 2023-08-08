@@ -6,7 +6,7 @@
 
 # Marriane Silva
 
-Collaborative and technically-minded business intelligence professional with solid experience in the data/analytics information environment. I combine analytical skills, ability to work in team environments, and attention to details. Having worked with Data Analysis for 7 years, I developed a critical thinking and problem-solving skills and I am able to deliver excellent reports/data visualization as well as business insights and trends that support the organization’s decision-making process.
+Collaborative and technically-minded business intelligence professional with solid experience in the data/analytics information environment. I combine analytical skills, ability to work in team environments, and attention to detail. Having worked with Data Analysis for 7 years, I developed critical thinking and problem-solving skills and I am able to deliver excellent reports/data visualization as well as business insights and trends that support the organization’s decision-making process.
 
 My credentials include a Bachelor's degree in Actuarial Science and Statistics from the Federal University of Minas Gerais (UFMG), an institution of higher education and advanced research rated as one of the top and most prestigious universities in Brazil.
 
